@@ -1,4 +1,4 @@
 # Generative model related reading
 
-* "Tutorial on Variational Autoencoders" [(Takeaways)](doc/3-18.md)
+* "Tutorial on Variational Autoencoders" [(Takeaways)](docs/3-18.md)
 * 
